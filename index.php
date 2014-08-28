@@ -114,7 +114,7 @@ header, section, footer, aside, article, figure {
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-<!--prueba de git-->
+<!--prueba de git, nueva prueba-->
 
     </head>
     <body background="images/Fondo.jpg">
