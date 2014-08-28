@@ -113,6 +113,9 @@ header, section, footer, aside, article, figure {
 </style><!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
+
+<!--prueba de git-->
+
     </head>
     <body background="images/Fondo.jpg">
     <br><br><br><br><br><br><br><br><br><br><br><br><br>
